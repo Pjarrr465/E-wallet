@@ -1,0 +1,7 @@
+{
+  "name": "Wallet-ku Research App",
+  "description": "A research prototype for a digital wallet simulation using QR codes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
